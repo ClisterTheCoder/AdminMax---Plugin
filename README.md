@@ -1,0 +1,2 @@
+# AdminMax---Plugin
+📜 Plugin Description
